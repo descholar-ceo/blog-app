@@ -2,4 +2,5 @@
 <p><%=@article.body%></h1>
 <p>Author: <%=@article.author%></h1>
 <p><%= link_to '<< Go back to articles', articles_path %></p>
+<%= link_to "edit", edit_article_path(@article) %>
 <p><%= link_to "delete", article_path(@article), method: :delete, data: {confirm: "Really delete the article?"} %></p>
