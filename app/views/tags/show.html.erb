@@ -2,6 +2,7 @@
 
 <ul>
   <% @tag.articles.each do |article| %>
-    <li><%= link_to article.title, article_path(article) %></li>
+    <li><%= link_to article.title, article_path(article) %>  <%= link_to 'delete', tag_path(article.tags), method: :delete %></li>
   <% end %>
 </ul>
+
