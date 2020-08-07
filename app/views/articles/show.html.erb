@@ -1,4 +1,10 @@
 <h1><%=@article.title%></h1>
+<p>
+    <h4>Tags</h4>
+    <%@article.tags.each do |tag|%>
+        <%=link_to tag.name, tag_path(tag)%>
+    <%end%>
+</p><br/>
 <p><%=@article.body%></h1>
 <p>Author: <%=@article.author%></h1>
 <h3>Comments (<%= @article.comments.size %>)</h3>
