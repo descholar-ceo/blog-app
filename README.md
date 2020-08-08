@@ -1,7 +1,6 @@
 # Blog App
 ![Linters](https://github.com/descholar-ceo/blog-app/workflows/Linters/badge.svg)
 
-
 ## Project description
 This project is for learning purpose just to get familiar with Ruby on Rails. It is gotten from [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails).
 
@@ -9,6 +8,9 @@ In it, we built a simple blog app demo, with ruby on rails, erb, css, scss.
 
 ## Screenshot
 ![](app/assets/images/screenshots/scr-sht.png)
+
+## Live demo link
+[BlogA](http://tutorial-blog-app.herokuapp.com/)
 
 ## Tools and technologies used to build this project
 1. [Ruby 2.7.1](https://www.ruby-lang.org/en/news/2020/03/31/ruby-2-7-1-released/)
