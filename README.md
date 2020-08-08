@@ -49,7 +49,7 @@ There are two ways of contributing to this project:
 * Twitter: [@descholar3](https://twitter.com/descholar3)
 * LinkedIn: [MUGIRASE Emmanuel](https://www.linkedin.com/in/mugirase-emmanuel-a90b49143)
 
-### 1. MUGIRASE Emmanuel
+### 1. Witah Ngu Georjane
 * Github: [@Georjane](https://github.com/Georjane)
 * Twitter: [@WittyJany](https://twitter.com/WittyJany)
 * LinkedIn: [Witah Georjane](https://www.linkedin.com/in/witah-georjane-74b8bb184)
