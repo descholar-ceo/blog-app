@@ -2,7 +2,8 @@
   "name": "blog_a",
   "private": true,
   "scripts": {
-    "stylelint": "npx stylelint **/*.{css,scss}"
+    "stylelint": "npx stylelint **/*.{css,scss}",
+    "stylelint-f": "npx stylelint **/*.{css,scss} --fix"
   },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
